@@ -1,0 +1,14 @@
+{
+  "name": "pretty-json",
+  "description": "Simple node cli utility for presenting JSON with glamour.",
+  "version": "0.1.0",
+  "author": "Tim Smart",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Tim-Smart/pretty-json.git"
+  },
+  "engine": [ "node >=0.4.1" ],
+  "bin": {
+    "pretty-json": "./pretty-json"
+  }
+}
